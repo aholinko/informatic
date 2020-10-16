@@ -62,10 +62,10 @@
 <p>3. <iframe src="lab2.pdf" width="500" height="700"></iframe></p> 
 4. Посилання на Google диск для перегляду результату
 
-<p>4. <a href="https://drive.google.com/file/d/1OCHRVokRzfs8L3SyYmDVFSwt1BuJHocO/view?usp=sharing">Посилання на Гугл диск</a></p> 
+<p>4. <a href="https://drive.google.com/file/d/1OCHRVokRzfs8L3SyYmDVFSwt1BuJHocO/view?usp=drivesdk">Посилання на Гугл диск</a></p> 
 
 5. OneDrive для перегляду результату
-<p>5. <a href="https://pnpu-my.sharepoint.com/:w:/g/personal/holinko_av_pdpu_edu_ua/EaXlhPn607JNjk8Ku_xN6GQBUkKfdoqZ-8SazUcDlRSrVA?e=7Qo0vT">Посилання на OneDrive</a></p> 
+<p>5. <a href="https://pnpu-my.sharepoint.com/:w:/g/personal/holinko_av_pdpu_edu_ua/EaXlhPn607JNjk8Ku_xN6GQBUkKfdoqZ-8SazUcDlRSrVA?e=SQ3zuB">Посилання на OneDrive</a></p> 
  6.1. Рідний формат для редактору Microsoft Office. 
  <p>6.1 <a href="lab2.docx">Формат Microsoft (*.docx)</a></p> 
 6.2. Рідний формат для редактору Libre (Open) Office.
@@ -73,7 +73,7 @@
    </div>
    <div id="sidebar">
     <p><a href="index.html">Домашня сторінка</a></p>
-    <p><a href="lab1.html">звіт до лабораторної роботи №1. Тема - Текстовий процесор</a></p>
+    <p><a href="lab1-2.html">звіт до лабораторної роботи №1. Тема - Текстовий процесор</a></p>
     <p><a href="lab2.html">звіт до лабораторної роботи №2. Тема - Google презентація</a></p>
     <p><a href="lab3.html">звіт до лабораторної роботи №3. Тема - Google малюнок</a></p>
     <p><a href="lab4.html">звіт до лабораторної роботи №4. Тема - Google форма-опитування</a></p>
